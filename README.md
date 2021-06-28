@@ -1,5 +1,5 @@
 
-<img alt="ankitkkr" src="resume.PNG" />
+<img alt="ankitkkr" src="resume.png" />
 
   
 ## Hi there, I'm Ankit Kumar -  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
