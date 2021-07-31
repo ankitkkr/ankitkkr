@@ -13,10 +13,6 @@
 
 ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="shekhar316 | LinkedIn" height="25px" src="LinkedIn.png" />][linkedin]
-[<img align="left" alt="shekhar316 | Whatsapp" height="25px" src="WhatsApp.png" />][whatsapp]
-[<img align="left" alt="shekhar316 | Telegram" height="25px" src="Telegram.png" />][telegram]
-[<img align="left" alt="shekhar316 | Instagram" height="25px" src="instagram.png" />][Instagram]
 
 [linkedin]: https://www.linkedin.com/in/ankitkkr
 [instagram]: https://www.instagram.com/ak_hacks
@@ -27,7 +23,7 @@
 
 ## Languages and Tools:
 
-[<code><img alt="C" width="35px" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>](https://www.cprogramming.com/)
+<!-- [<code><img alt="C" width="35px" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>](https://www.cprogramming.com/)
 [<code><img alt="C++" width="35px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/></code>](http://www.cplusplus.org/)
 [<code><img alt="Java" width="35px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png"></code>](https://www.java.com/en/)
 [<code><img alt="Python" width="35px" src="https://img.icons8.com/color/240/000000/python.png"></code>](https://www.python.org/)
@@ -35,7 +31,7 @@
 [<code><img alt="CSS3" width="35px" src="https://img.icons8.com/color/240/000000/css3.png"></code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code><img alt="JavaScript" width="35px" src="https://img.icons8.com/color/240/000000/javascript.png" /></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code><img alt="Latex" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>](https://www.latex-project.org/)
-[<code><img alt="Markdown" width="35px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png"></code>](https://www.markdownguide.org/)
+[<code><img alt="Markdown" width="35px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png"></code>](https://www.markdownguide.org/) -->
 
 <br />
 
