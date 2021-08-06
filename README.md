@@ -13,6 +13,10 @@
 
 ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
+[<img align="left" alt="ankitkkr | LinkedIn" height="25px" src="LinkedIn.png" />][linkedin]
+[<img align="left" alt="ankitkkr | Whatsapp" height="25px" src="WhatsApp.png" />][whatsapp]
+[<img align="left" alt="ankitkkr | Telegram" height="25px" src="Telegram.png" />][telegram]
+[<img align="left" alt="ankitkkr | Facebook" height="25px" src="Facebook.png" />][facebook]
 
 [linkedin]: https://www.linkedin.com/in/ankitkkr
 [instagram]: https://www.instagram.com/ak_hacks
