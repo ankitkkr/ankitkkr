@@ -39,9 +39,7 @@
 
 <br />
 
-<code><img alt="scikit-learn" width="35px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
-<img alt="Numpy" width="35px" src="https://numpy.org/images/logos/numpy.svg">
-<img alt="Pandas" width="35px" src="https://amiradata.com/wp-content/uploads/2020/02/pandas-python.png"></code>
+<img alt="scikit-learn" width="35px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"> <img alt="Numpy" width="35px" src="https://numpy.org/images/logos/numpy.svg"> <img alt="Pandas" width="35px" src="https://amiradata.com/wp-content/uploads/2020/02/pandas-python.png">
 
 <br />
 
