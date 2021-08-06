@@ -54,14 +54,8 @@
 
 <br /> -->
 
-[<code><img alt="Google Colab" width="35px" src="https://github.com/googlecolab/open_in_colab/blob/main/images/icon128.png"/></code>](https://colab.research.google.com/)
-[<code><img alt="Jupyter Notebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png"></code>](https://jupyter.org/)
-[<code><img alt="Pycharm" width="35px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png"></code>](https://www.jetbrains.com/pycharm/)
-[<code><img alt="IntelliJ Idea" width="35px" src="https://cdn.iconscout.com/icon/free/png-64/intellij-idea-569199.png"></code>](https://www.jetbrains.com/idea/)
-[<code><img alt="Eclipse" width="35px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png"></code>](https://www.eclipse.org/l)
-[<code><img alt="Git" width="35px" src="https://img.icons8.com/color/48/000000/git.png"></code>](https://git-scm.com/)
-[<code><img alt="Github" width="35px" src="https://img.icons8.com/color/48/000000/github.png"></code>](https://github.com/)
-[<code><img alt="Linux" width="35px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/linux_icon_130887.png"></code>](https://www.linux.org/)
+<img alt="Jupyter Notebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png"> <img alt="Pycharm" width="35px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png"> <img alt="Git" width="35px" src="https://img.icons8.com/color/48/000000/git.png"> <img alt="Github" width="35px" src="https://img.icons8.com/color/48/000000/github.png">
+
 
 
  
