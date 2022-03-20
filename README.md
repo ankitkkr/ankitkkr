@@ -1,7 +1,3 @@
-
-<img alt="ankitkkr" src="resume.png" />
-
-  
 ## Hi there, I'm Ankit Kumar -  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 
 ### I'm a Undergraduate Student, AI and Machine Learner, a Graphic Designer and a Software Developer.
